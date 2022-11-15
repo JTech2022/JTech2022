@@ -1,16 +1,71 @@
-### Hi there 👋
+<div>
 
-<!--
-**JTech2022/JTech2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I am <a href="https://elmergustavo.github.io/">Jerry Contreras!</a> 
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ 
+
+
+
+
+
+
+
+# Redes sociales:
+
+<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Jerry | 👨‍💻 Trainee Frontend Developer | Guatemala</p>
+
+<div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
+
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/1miradadisident' target='_blank'><img src='./assets/social-media/facebook.svg' alt='Facebook' width='30'/></a>
+
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/1miradadisident" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Twitter" width="30"  /></a>
+
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/jtech2022" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Linked In" width="30" /></a>
+
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:profesional.it2800@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Correo" /></a>
+
+
+</div>
+
+
+
+
+<br />
+
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' />Acerca de Mi | About Me </h2>
+
+
+
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; I study computer science and systems engineering at Experimental National University of Caracas.
+
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+<hr>
+
+<!-- <h3> 🛠 &nbsp;Tech Stack</h3> -->
+
+<br/>
+
+
+ ## Front-End Technologies: 
+
+ 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=markdown,html,css,js," />
+  </a>
+</p>
+
+ ## Back-End Technologies:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,php,git" />
+  </a>
+</p>
