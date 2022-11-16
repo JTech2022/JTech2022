@@ -2,29 +2,23 @@
 
 # 👋 Hi there, I am <a href="https://elmergustavo.github.io/">Jerry Contreras!</a> 
 
-</div>
+<hr> 
 
 <div>
  
 
+<div style="text-align: center; font-size: 1rem;" align='center'> 👨‍💻 Trainee Frontend Developer | Venezuela </p>
 
+<div>
 
-
-
-
-
+<hr>
+ 
 # Redes sociales:
 
-<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Jerry | 👨‍💻 Trainee Frontend Developer | Guatemala</p>
-
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
-
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/1miradadisident' target='_blank'><img src='./assets/social-media/facebook.svg' alt='Facebook' width='30'/></a>
-
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/1miradadisident" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Twitter" width="30"  /></a>
-
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/jtech2022" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Linked In" width="30" /></a>
-
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://www.facebook.com/1miradadisident' target='_blank'><img src='./assets/social-media/facebook.svg' alt='Facebook' width='30'/></a>&nbsp;
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/1miradadisident" target="_blank"><img src="./assets/social-media/twitter.svg" alt="Twitter" width="30"  /></a>&nbsp;
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/jtech2022" target="blank"><img src="./assets/social-media/linkedin.svg" alt="Linked In" width="30" /></a>&nbsp;
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:profesional.it2800@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="Correo" /></a>
 
 
